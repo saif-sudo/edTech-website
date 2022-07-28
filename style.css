@@ -33,3 +33,41 @@
     width: 60px;
     margin-right: 20px;
 }
+
+
+footer{
+    min-height: 365px;
+    background: #101010;
+    margin-top: 100px;
+}
+
+
+
+footer a{
+    text-decoration: none;
+}
+
+.terms{
+    text-align: center;
+    padding: 50px;
+}
+
+.terms a{
+    margin: 10px;
+    font-size: 15px;
+    color: #b3b3b3;
+}
+
+.social-icons{
+    text-align: center;
+    font-size: 32px;
+    padding-bottom: 50px;
+}
+
+footer a:hover{
+    color:#DD0000
+}
+
+
+/* footer css end */
+
