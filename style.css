@@ -24,3 +24,12 @@
     background-color: #F4FAFD;
 }
 
+.rating-color{
+    color:#fbc634 !important;
+}
+
+.img-circle{
+    border-radius: 50%;
+    width: 60px;
+    margin-right: 20px;
+}
