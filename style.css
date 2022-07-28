@@ -1,4 +1,22 @@
-.navmenu h3{
+.navmenu h4{
     color:#4A4A4A;
-    
+    font-weight: bold;
 }
+
+.bg-dark::before{
+    background-color:#000;
+    position: absolute;
+    display: block;
+    content: "";
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.7;
+}
+
+.car-caption{
+    z-index: 9999;
+    top:40%;
+}
+
